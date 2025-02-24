@@ -13,7 +13,7 @@ This analysis was conducted using Power BI to generate interactive dashboards. T
 - **Sales Overview**: Summarizes total sales, product performance, and store comparisons.
 - **Time Trends**: Examines sales variations over time, including monthly, weekly, and hourly trends.
 
-![image](Images\Report1.PNG)
+![Image](https://github.com/user-attachments/assets/95a10248-081f-403e-9ff9-865b82efc451)
 
 - **Category Analysis**: Breaks down sales by product category to identify top-selling and underperforming items.
 - **Store Performance**: Compares revenue and product quantity across different store locations.
