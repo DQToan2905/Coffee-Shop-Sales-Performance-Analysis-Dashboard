@@ -12,31 +12,16 @@ This analysis was conducted using Power BI to generate interactive dashboards. T
 
 - **Sales Overview**: Summarizes total sales, product performance, and store comparisons.
 - **Time Trends**: Examines sales variations over time, including monthly, weekly, and hourly trends.
-<<<<<<< HEAD
-![](/Images/Slide2.PNG)
-=======
-
 ![image](Images\Report1.PNG)
->>>>>>> a916d94 (commit message)
 
 - **Category Analysis**: Breaks down sales by product category to identify top-selling and underperforming items.
 - **Store Performance**: Compares revenue and product quantity across different store locations.
-
-<<<<<<< HEAD
-=======
 ![image](Images\Report2.png)
 
->>>>>>> a916d94 (commit message)
 ## 3. Key Insights
 From the dashboard, we identified several significant insights:
 
 - **Sales Growth**: Sales increased steadily from January to June, with the highest revenue in June (166K) and the lowest in February (76K).
-<<<<<<< HEAD
-- **Peak Sales Hours**: The highest number of transactions occurred between 7 AM and 10 AM, with a peak at 9 AM (18.5K transactions).
-- **Best-Selling Products**: The top-performing products include "Sustainably Grown Organic Coffee Lg" (21.2K sales) and "Dark Chocolate Lg" (21K sales).
-- **Store Performance**: The three store locations (Hell’s Kitchen, Astoria, and Lower Manhattan) have similar sales, with Hell’s Kitchen leading slightly.
-- **Category Performance**: Coffee products dominate sales (28.11% of total revenue), followed by tea and bakery items.
-=======
 ![image](Images\Slide2.png)
 
 - **Monthly Revenue Trend**: Sales rise sharply in the middle of the month but drop significantly at the end of the month.
@@ -53,7 +38,7 @@ From the dashboard, we identified several significant insights:
 
 - **Store Performance**: The three store locations (Hell’s Kitchen, Astoria, and Lower Manhattan) have similar sales, with Hell’s Kitchen leading slightly.
 ![image](Images\Slide7.png)
->>>>>>> a916d94 (commit message)
+
 
 ## 4. Recommendations
 Based on the findings, we propose the following actions:
@@ -63,9 +48,6 @@ Based on the findings, we propose the following actions:
 - **Inventory Management**: Maintain higher stock levels for high-demand categories such as coffee and tea while reassessing slow-moving items.
 - **Store Expansion Strategy**: Consider expanding into new locations based on the sales trends observed in the current stores.
 - **Seasonal Promotions**: Introduce seasonal and time-based promotions to maintain consistent sales growth throughout the year.
-
-<<<<<<< HEAD
-=======
 - **End-of-Month Sales Strategy**: Implement targeted marketing campaigns and discounts in the last week of the month to counteract the significant drop in revenue.
->>>>>>> a916d94 (commit message)
+
 
