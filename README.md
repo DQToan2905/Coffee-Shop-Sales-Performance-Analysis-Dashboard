@@ -18,14 +18,14 @@ This analysis was conducted using Power BI to generate interactive dashboards. T
 - **Category Analysis**: Breaks down sales by product category to identify top-selling and underperforming items.
 - **Store Performance**: Compares revenue and product quantity across different store locations.
 
-![image](Images\Report2.png)
+![image](Images\Report2.PNG)
 
 ## 3. Key Insights
 From the dashboard, we identified several significant insights:
 
 - **Sales Growth**: Sales increased steadily from January to June, with the highest revenue in June (166K) and the lowest in February (76K).
 
-![image](Images\Slide2.png)
+![image](Images\Slide2.PNG)
 
 - **Monthly Revenue Trend**: Sales rise sharply in the middle of the month but drop significantly at the end of the month.
 
