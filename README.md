@@ -18,35 +18,34 @@ This analysis was conducted using Power BI to generate interactive dashboards. T
 - **Category Analysis**: Breaks down sales by product category to identify top-selling and underperforming items.
 - **Store Performance**: Compares revenue and product quantity across different store locations.
 
-![image](Images\Report2.PNG)
+![Image](https://github.com/user-attachments/assets/15565961-7cb7-4f59-a3ac-46e38a311d85)
 
 ## 3. Key Insights
 From the dashboard, we identified several significant insights:
 
 - **Sales Growth**: Sales increased steadily from January to June, with the highest revenue in June (166K) and the lowest in February (76K).
 
-![image](Images\Slide2.PNG)
+![Image](https://github.com/user-attachments/assets/c0dc2016-ffbb-426d-97dc-b983682e9818)
 
 - **Monthly Revenue Trend**: Sales rise sharply in the middle of the month but drop significantly at the end of the month.
 
-![image](Images\Slide3.png)
+![Image](https://github.com/user-attachments/assets/1959441d-b350-4c8c-b437-4893b91ecc16)
 
 - **Peak Sales Hours**: The highest number of transactions occurred between 7 AM and 10 AM, with a peak at 9 AM (18.5K transactions).
 
-![image](Images\Slide4.png)
+![Image](https://github.com/user-attachments/assets/c9639abe-7427-41cb-a3be-39d5da075167)
 
 - **Best-Selling Products**: The top-performing products include "Sustainably Grown Organic Coffee Lg" (21.2K sales) and "Dark Chocolate Lg" (21K sales).
 
-![image](Images\Slide6.png)
+![Image](https://github.com/user-attachments/assets/32bfe074-ba56-4df8-bc5d-21bf1e89e9d1)
 
 - **Category Performance**: Coffee products dominate sales (28.11% of total revenue), followed by tea and bakery items.
 
-![image](Images\Slide5.png)
+![Image](https://github.com/user-attachments/assets/135b9f8c-7b02-4942-834d-1607e856e0b3)
 
 - **Store Performance**: The three store locations (Hell’s Kitchen, Astoria, and Lower Manhattan) have similar sales, with Hell’s Kitchen leading slightly.
 
-![image](Images\Slide7.png)
-
+![Image](https://github.com/user-attachments/assets/6fa3788c-6f4c-4abd-b391-086c4e30936a)
 
 ## 4. Recommendations
 Based on the findings, we propose the following actions:
